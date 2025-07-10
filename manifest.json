@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Bird Quiz",
+  "version": "1.0",
+  "description": "Test your knowledge of bird species with a picture quiz!",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"]
+}
